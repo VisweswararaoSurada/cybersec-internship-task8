@@ -1,1 +1,0 @@
-# cybersec-internship-task8
