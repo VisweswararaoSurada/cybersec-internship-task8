@@ -66,5 +66,5 @@ I selected **VeePN (Free Extension)** because:
 ---
 
 ## 📎 Deliverables
-- `report.md` → VPN findings and analysis.
+- `[report.md](report.md) → VPN findings and analysis.
 - `screenshots/` → Chrome extension ON/OFF and IP address verification.
